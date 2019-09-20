@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+    background: lightgray;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+input {
+    width: 50px;
+    border-radius: 10px;
+}
+
+.winner {
+    color: green;
+    background: gold;
+    border-radius: 10px;
+}
